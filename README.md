@@ -1,4 +1,4 @@
-<img width="555" height="416" alt="output 1" src="https://github.com/user-attachments/assets/5dc39d48-3982-405a-b5e3-e789bbcf65ee" />
+
 # 🎯 Naive Bayes Classifier (GaussianNB) with Scikit-learn
 
 This project shows how to build a **Naive Bayes Classifier** using Python's `scikit-learn`.  
@@ -13,14 +13,20 @@ We generate synthetic data, train the model, visualize the decision boundaries, 
 - Predict class probabilities for new data points
 
 ---
+## 🖼 Example Output
 
+### Dataset Visualization
 <img width="555" height="416" alt="output 1" src="https://github.com/user-attachments/assets/7e42d1c0-6269-4743-a1ac-9b965f64d4db" />
 
+
 ### Decision Boundaries
-![Decision Boundaries](images/decision-boundaries.png)
+<img width="555" height="416" alt="output 2" src="https://github.com/user-attachments/assets/d9f4f1e0-8a78-46ac-ac1f-d0d3b04d5d74" />
+
+
 
 ### Probability Predictions
-![Probability Predictions](images/probabilities.png)
+<img width="315" height="232" alt="Screenshot 2025-08-09 121904" src="https://github.com/user-attachments/assets/964d0de3-2be1-4029-9d8b-dc869bf82f9e" />
+
 
 ---
 
